@@ -1,2 +1,6 @@
-from maze_generation import maze, start_position
+import Scripts
+
+Scripts._setup()
+Scripts._run()
+
 
